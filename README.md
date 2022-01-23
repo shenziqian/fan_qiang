@@ -158,6 +158,8 @@ free-v2ray|                                       |                             
  
  Free Proxies：https://fq.lonxin.net/
  
+Free Proxies: https://proxy.leefake.xyz/
+ 
  
 
 
