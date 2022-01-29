@@ -223,6 +223,7 @@ Free-Proxy.com||[4](http://free-proxy.cz/zh/)
 + [软路由安装教程，闲置笔记本设置旁路由，双臂路由！科学上网更快更稳定！2020 | 零度解说 - YouTube](https://www.youtube.com/watch?v=nEU4hbZYj6c&ab)
 + [（小白也能学会）❤群辉NAS安装软路由，软路由设置，无线AP设置，家庭网络设置，比较详细适合新手【#阿雷科技】 - YouTube](https://www.youtube.com/watch?v=qbWWGEHBowQ&ab)
 + [R2S软路由销量之王！R2S安装openwrt攻略 openwrt软路由设置 - YouTube](https://www.youtube.com/watch?v=ZCmbbnIBD78&ab)
+- [软路由加速！Openwrt加速组件 R2S提速40% Openwrt Turbo ACC加速有用吗？ - YouTube](https://www.youtube.com/watch?v=kCBAuHqun3g)
 
 ## <h1 id="13">6.1 其他<h1>
 网站|备注|点击访问
