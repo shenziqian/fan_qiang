@@ -108,7 +108,6 @@ the best VPN deals|  |[3](https://thebestvpndeals.com/)
  
 网站|网址1|网址2|备注
 --|:--:|:--:|---
-v2ray-core|https://github.com/v2fly/v2ray-core||支持Windows、Linux、MacOS、Android
 v2rayNG|https://github.com/2dust/v2rayNG||仅Android
 v2rayN|https://github.com/2dust/v2rayN||仅Windows
 clash|https://github.com/Dreamacro/clash||支持Windows、Linux
@@ -270,8 +269,10 @@ VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)
 免费翻墙网总结|||[总结](https://freefq.com/vpn/)
  
  
- ## <h1 id="16">6.4 两个软件<h1>
+ ## <h1 id="16">6.4 其他软件<h1>
  
  [proxypool](https://github.com/zu1k/proxypool)
 
  [ProxySU](https://github.com/proxysu/ProxySU)
+ 
+ v2ray-core|https://github.com/v2fly/v2ray-core||支持Windows、Linux、MacOS、Android
