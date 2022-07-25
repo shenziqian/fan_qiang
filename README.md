@@ -93,6 +93,8 @@ TunSafe       |       |   |√      |   |     |                  |       |[官�
  
 [如何在 Windows 上安装 设置 OpenVPN，附免费VPN节点和使用教程 | 零度解说](https://www.youtube.com/watch?v=rwi0tPd-owU)
 
+[还在用付费VPN?2022年神奇实测TOP8史诗级VPN ！免费更比付费强,最高能跑100M ！8款即装即用，无需注册，安全纯净无广告，稳定高效，8K高速，不限流量，不限设备，一键连接，全球网络！ - YouTube](https://www.youtube.com/watch?v=4ZqddPgn9B4)
+
 **VPN导航网站**
 网站               |备注             |点击访问
 --|:--:|:--:
