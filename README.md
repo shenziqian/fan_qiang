@@ -1,5 +1,7 @@
 > 以下内容多半都已过时（至2022.1已有一年半没有更新），会造成网站或软件可能已经挂掉或相关信息失真的情况。但白嫖翻墙大致上就这些手段，本文具有参考意义。
 
+
+
 # 白嫖目录：
 
 [0.5 解决方案](#0)
@@ -39,8 +41,9 @@ PC端为主力，移动端偶尔使用；使用时间分散，非整天；流量
 
 #### 方案
 
-- 手机上安装蓝灯和银河VPN，作为应急使用；
-- PC上使用代理软件，机场选择试用流量多的，反复注册使用。若机场注册时需使用代理，则在手机上注册或先注册一个墙内可用的机场。
+- 手机上安装蓝灯和银河VPN，应急使用；
+- 浏览器安装 Astar VPN 扩展，应急使用；
+- PC上使用代理软件，机场选择试用流量多的，反复注册使用。若机场注册时需使用代理，则通过应急手段注册或先注册一个墙内可用的机场。
 > 至于机场哪里找，YouTube 或者本页面都有参考答案
 
 ### <h1 id="1">1.1 在线代理<h1>
@@ -52,7 +55,9 @@ PC端为主力，移动端偶尔使用；使用时间分散，非整天；流量
 extension    |备注  |安装
 ---|:---:|:----:
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
- 
+> 如果没有大流量需求，只是查查资料，只使用这个就够了，因为据说这个扩展还可以。——2022.10.17
+
+
 ### <h1 id="3">3.1 proxy browser<h1>
 
 Proxy Browser |Android|IOS|Windows|Mac|Linux|Note
@@ -63,6 +68,7 @@ Tuber浏览器   |√      |敬请期待|   |   |    |[官网](http://pc.txappne
 绿光浏览器    |√      |√  |√      |√  |     |需手机号登录；[官网](https://www.sgreennet.com/)  
 Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
 
+> 这种方式不太靠谱，一是因为很容易失效，二是因为内容有过滤。——2022.10.17
 
 ### <h1 id="4">3.2 VPN<h1>  
 
