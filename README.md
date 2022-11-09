@@ -183,8 +183,9 @@ free-v2ray|                                       |                             
  Free Proxies：https://fq.lonxin.net/
  
 Free Proxies: https://proxy.leefake.xyz/
- 
- 
+
+2022免费机场公益机场免费vpn合集SSR-V2ray-2022.11更新 - 机场推荐： https://jichangtuijian.com/%E5%85%8D%E8%B4%B9ssr%E5%92%8Cv2ray%E6%9C%BA%E5%9C%BA.html
+> 2022.11.9
 
 
 #### <h2 id="8">3.3.3 机场导航<h1>
