@@ -1,4 +1,4 @@
-> 以下内容多半都已过时（至2022.1已有一年半没有更新），会造成网站或软件可能已经挂掉或相关信息失真的情况。但白嫖翻墙大致上就这些手段，本文具有参考意义。
+> 以下内容多半是数年未更新，2022年及其以后更新的内容都会在后面标注时间
 
 
 
@@ -55,7 +55,7 @@ PC端为主力，移动端偶尔使用；使用时间分散，非整天；流量
 extension    |备注  |安装
 ---|:---:|:----:
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
-> 如果没有大流量需求，只是查查资料，只使用这个就够了，因为据说这个扩展还可以。——2022.10.17
+
 
 
 ### <h1 id="3">3.1 proxy browser<h1>
@@ -187,6 +187,9 @@ Free Proxies: https://proxy.leefake.xyz/
 2022免费机场公益机场免费vpn合集SSR-V2ray-2022.11更新 - 机场推荐： https://jichangtuijian.com/%E5%85%8D%E8%B4%B9ssr%E5%92%8Cv2ray%E6%9C%BA%E5%9C%BA.html
 > 2022.11.9
 
+https://twitter.com/gideon1688、https://paimon.gq/
+> 2022.12.5
+
 
 #### <h2 id="8">3.3.3 机场导航<h1>
 网站|备注|点击访问
@@ -195,6 +198,9 @@ Free Proxies: https://proxy.leefake.xyz/
 我爱白嫖||[2](https://52bp.org/index.html)
 灯油||[3](https://iyideng.cloud/)
 DuyaoSS||[4](https://www.duyaoss.com/page/1/)
+
+https://github.com/koi778/sspanel-mining、https://telemetr.io/ar/channels/1703165692-jichang_list/posts
+> 2022.12.5
 
 
 > (跑路机场清单)[https://github.com/limbopro/paolujichang]
@@ -215,6 +221,9 @@ freegfw  ||[10](https://freegfw.cf/)
 我们所向往的||[11](https://gmail.gitbook.io/wmsxwd/)
 SSRSpeed||[12](https://github.com/NyanChanMeow/SSRSpeed)
 ACL4SSR在线订阅转换||[13](https://acl4ssr-sub.github.io/)
+
+https://v.iread.life/
+> 2022.12.5
 
  
 
