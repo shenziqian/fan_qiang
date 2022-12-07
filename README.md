@@ -131,14 +131,20 @@ the best VPN deals|  |[3](https://thebestvpndeals.com/)
 
 #### <h2 id="6">3.3.1 软件下载<h1>
  
-网站|网址1|网址2|备注
+网站|网址|备注
 --|:--:|:--:|---
-v2rayNG|https://github.com/2dust/v2rayNG||仅Android
-v2rayN|https://github.com/2dust/v2rayN||仅Windows
-clash|https://github.com/Dreamacro/clash||支持Windows、Linux
-ClashForAndroid|https://github.com/Kr328/ClashForAndroid||仅Android
-winXray|https://github.com/TheMRLL/winxray|https://winxray.com/|仅Windows
-Trojan|https://trojan-gfw.github.io/trojan/||支持Windows、Linux、MacOS
+v2rayNG|https://github.com/2dust/v2rayNG|仅Android
+v2rayN|https://github.com/2dust/v2rayN|仅Windows
+clash|https://github.com/Dreamacro/clash| 命令行版本 (22.12.7)
+ClashForAndroid|https://github.com/Kr328/ClashForAndroid|仅Android
+Clash for Windows | https://github.com/Fndroid/clash_for_windows_pkg | 支持Windows、Linux、MacOS (22.12.7)
+Clash_Chinese_Patch | https://github.com/BoyceLig/Clash_Chinese_Patch | Clash for Windows 的汉化 (22.12.7)
+Clash for Windows Chinese | https://github.com/ender-zhao/Clash-for-Windows_Chinese | Clash for Windows 的汉化 (22.12.7)
+clashN | https://github.com/2dust/clashN | 仅Windows (22.12.7)
+ClashX | https://github.com/yichengchen/clashX | 仅 MacOS (22.12.7)
+OpenClash | https://github.com/vernesong/OpenClash | OpenWrt (22.12.7)
+winXray|https://winxray.com/|仅Windows
+Trojan|https://trojan-gfw.github.io/trojan/|支持Windows、Linux、MacOS
 
 
  停止的项目：
@@ -190,6 +196,11 @@ Free Proxies: https://proxy.leefake.xyz/
 https://twitter.com/gideon1688、https://paimon.gq/
 > 2022.12.5
 
+https://github.com/aiboboxx/clashfree
+> 2022.12.7
+
+https://github.com/openRunner/clash-freenode
+> 2022.12.7
 
 #### <h2 id="8">3.3.3 机场导航<h1>
 网站|备注|点击访问
