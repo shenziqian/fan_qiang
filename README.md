@@ -132,7 +132,7 @@ the best VPN deals|  |[3](https://thebestvpndeals.com/)
 #### <h2 id="6">3.3.1 软件下载<h1>
  
 网站|网址|备注
---|:--:|:--:
+--|:--|:--
 v2rayNG|https://github.com/2dust/v2rayNG|仅Android
 v2rayN|https://github.com/2dust/v2rayN|仅Windows
 clash|https://github.com/Dreamacro/clash| 命令行版本 (22.12.7)
