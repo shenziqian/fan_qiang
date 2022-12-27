@@ -202,6 +202,9 @@ https://github.com/aiboboxx/clashfree
 https://github.com/openRunner/clash-freenode
 > 2022.12.7
 
+https://github.com/NiceVPN123/NiceVPN
+> 2022.12.27
+
 #### <h2 id="8">3.3.3 机场导航<h1>
 网站|备注|点击访问
 ---|:--:|:--:
