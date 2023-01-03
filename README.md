@@ -130,6 +130,8 @@ the best VPN deals|  |[3](https://thebestvpndeals.com/)
 ### <h1 id="5">3.3 SS/SSR/V2ray/Clash/Clashr/winXray<h1>
 
 #### <h2 id="6">3.3.1 软件下载<h1>
+
+> 这些软件都大同小异，选个顺手的即可（23.1.3）
  
 网站|网址|备注
 --|:--|:--
@@ -142,6 +144,7 @@ Clash_Chinese_Patch | https://github.com/BoyceLig/Clash_Chinese_Patch | Clash fo
 Clash for Windows Chinese | https://github.com/ender-zhao/Clash-for-Windows_Chinese | Clash for Windows 的汉化 (22.12.7)
 clashN | https://github.com/2dust/clashN | 仅Windows (22.12.7)
 ClashX | https://github.com/yichengchen/clashX | 仅 MacOS (22.12.7)
+Clash Verge | https://github.com/zzzgydi/clash-verge | 支持 Windows 和 MacOS （23.1.3）
 OpenClash | https://github.com/vernesong/OpenClash | OpenWrt (22.12.7)
 winXray|https://winxray.com/|仅Windows
 Trojan|https://trojan-gfw.github.io/trojan/|支持Windows、Linux、MacOS
