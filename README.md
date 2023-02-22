@@ -214,7 +214,7 @@ https://github.com/NiceVPN123/NiceVPN
 翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
 我爱白嫖||[2](https://52bp.org/index.html)
 灯油||[3](https://iyideng.cloud/)
-DuyaoSS||[4](https://www.duyaoss.com/page/1/)
+DuyaoSS||[4](https://www.duyaoss.com)
 
 https://github.com/koi778/sspanel-mining、https://telemetr.io/ar/channels/1703165692-jichang_list/posts
 > 2022.12.5
